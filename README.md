@@ -79,7 +79,7 @@ This project demonstrates **authentication, CRUD operations, protected routes, M
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/Mayankjain995/Book_review_Platform.git
+git clone https://github.com/kavya1672004/Book-review-platform.git
 cd Book_review_Platform
 ```
 
@@ -186,10 +186,10 @@ Mayank
 📧 mayankbhandari647@gmail.com
 
 🔗 LinkedIn
-https://www.linkedin.com/in/mayank-btech-cse/
+https://www.linkedin.com/in/kavya-d-p-8a8201342|
 
 Github:-
-https://github.com/Mayankjain995
+https://github.com/kavya1672004
 
 ---
 
